@@ -52,5 +52,6 @@ int main()
     //Vector Size
     cout<<car.size()<<endl;
     cout<<a.size()<<endl;
+    cout<<a.capacity()<<endl;//size ay double
 }
 
